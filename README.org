@@ -124,13 +124,11 @@
 
     - analogy between:
 
-      -
+      1. how Quantum simulators emulate a virtual quantum system using
+        the hardware of a real quantum system (connect from QC to QM
+        to QIT)
 
-        1) how Quantum simulators emulate a virtual quantum system using
-           the hardware of a real quantum system (connect from QC to QM
-           to QIT)
-
-      - and 2) how these analog computers can be used to emulate a
+      2. how these analog computers can be used to emulate a
         "macrocosmic" system within the microcosm of a specially
         designed arrangement of matter embued with synthetic bio on a
         biophysics framework
