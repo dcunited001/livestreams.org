@@ -1,0 +1,147 @@
+* Ideas for streams
+:PROPERTIES:
+:CUSTOM_ID: ideas-for-streams
+:END:
+
+** A Business Model for DuckDuckGo
+:PROPERTIES:
+:CUSTOM_ID: a-business-model-for-duckduckgo
+:END:
+
+- anonymous users & privacy focused users form a set of overlapping
+  groups that marketers are not targeting
+- trying to target these anonymized users can be done with a minimal
+  layer of tracking:
+
+  - tracking user sessions may not be required and perhaps cookies could
+    also be left out entirely
+
+- duckduckgo is already targeting this privacy-aware users who are
+  disaffected by the tracking/targeting practices of Facebook/Google
+
+  - adding this minimal layer of advertising establishes revenue streams
+    with services that would be valuable to marketers who want to have
+    more robust "controls" in place for determining the effectiveness of
+    other more-targeted ad campaigns.
+
+- in machine learning terms, this is similar to adding random noise to
+  stochastic processes:
+
+  - to explore regions of a hyperplane more completely
+  - while removing as much bias from the signals determining which
+    directions/regions of the hyperplane your algorithm chooses to
+    explore.
+
+** Analog Computing
+:PROPERTIES:
+:CUSTOM_ID: analog-computing
+:END:
+
+- flow of thought:
+
+  - Compiler optimizations
+  - how someone running a CI backend for package managers must consider compiler
+    optimizations (extending a personal internal dialogue on the subject after
+    watching the video on [[https://www.youtube.com/watch?v=3IyXsBwqll8][Julia BinaryBuilder.jl]])
+
+    - while it is worthwhile to ratchet up the level of some compiler
+      optimizations, other types of optimizations must be left out
+      entirely (or check for instruction availability, etc).
+    - e.g.
+
+      - optimizations which predict compute load, competing compute load
+        (perhaps from other services)
+      - optimizations involving DSP, SIMD or other exotic instructions
+        (AVX?)
+      - optimizations which involve assumptions about cache
+
+    - they must tune the optimizations to the "lowest available common
+      denominator" for an arch/os.
+    - dynamic linking limits the depth of compiler optimizations across
+      library boundaries .....
+
+      - how does this intersect with C++ 21 concepts/interfaces;
+        e.g. the compartmentalization of process & dataflow b/w libs (&
+        and processes/IPC?)
+
+  - the structure of processes/services in an operating system
+
+    - lacking "governor processes" (in software, which mimic the CPU
+      governor(?)) implies that the following factors greatly increase
+      the CPU as a bottleneck for computation throughput (via the need
+      to shuffle L2/L3 cache)
+
+      1. the number of processes (primarily services)
+      2. increasing their probability of wakeup during some timesteps
+      3. changing the load characteristics of each process (a
+         distribution that corresponds to load)
+
+      - the similarity between:
+
+        - modeling how processes (via kernel or system calls) access IRQ
+          & bus design
+        - old-school coax networks (vampire clamps) and ethernet
+        - looking at the distribution of benchmark times returned for
+          various steps in a query plan on a production SQL server
+
+- constraints/motifs in L1/L2/L3 sizes/designs
+
+  - CPU governor
+
+- everything is "signaletics", information theory and communications
+  theory. these are first principles (in addition to physics/math)
+- reversing the growth of a tree in your head
+
+  - folds in bark
+  - state/change
+  - various growth processes
+  - hydrostatics/osmotics
+  - change in rates of the micro-ecosystem the tree provides (moss,
+    rhizosphere, mold, etc)
+  - disease or structural damage and decay processes
+
+- analog computers
+
+  - specific examples from the 20th century
+
+    - problems of scale (how this intersects with criticality and scale)
+
+      - isolation from thermal interference, noise, etc.
+      - problems scaling the size of the mechanisms (turbulence,
+        reynolds number & other non-linear phenomena)
+
+    - diffusion
+
+  - rhizosphere and "the intelligence of trees"
+
+    - anywhere you have efficiency, there's probably capitalism afoot
+    - the intelligence of the market, "intelligence of nature" and what
+      this means for natural philosophy
+    - the Roman Empire and their systems of heuristics/logistics
+
+  - designing analog computers using GMO, synthetic bio and natural
+    systems
+
+    - analogy between:
+
+      -
+
+        1) how Quantum simulators emulate a virtual quantum system using
+           the hardware of a real quantum system (connect from QC to QM
+           to QIT)
+
+      - and 2) how these analog computers can be used to emulate a
+        "macrocosmic" system within the microcosm of a specially
+        designed arrangement of matter embued with synthetic bio on a
+        biophysics framework
+
+  - the universal condition of life implies birth/death, which implies
+    constant change.
+
+    - analog computers running on a biophysical framework are not
+      practical if synthetic-bio doesn't somehow transcend death
+    - change compartmentalized into entities; sexual recombination &
+      chaos in stochastic systems
+    - Nick Land's essay on Bataille (shamanic Nietzsche) mentions how we
+      must "transcend life" and specifically what this means for death
+      ... but he doesn't mention what this means for birth.
