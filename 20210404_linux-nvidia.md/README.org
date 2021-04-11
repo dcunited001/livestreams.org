@@ -1,0 +1,41 @@
+* Nvidia Updates in ArchLinux
+
+A completely random quote:
+
+"The first principles of the universe are atoms and empty space; everything else
+is merely thought to exist." - Democritus
+
+** In this video, I'll be giving a general overview for:
+
+*** How to install Nvidia drivers for Linux Distros running the Zen Kernel, when an AUR package is not yet available.
+*** How to *approach* modifying an Nvidia AUR packages or create a new one.
+*** How to search the Nvidia Linux driver installer source to ensure you've updated the Linux patches to match the driver's expanded capabilities (though my knowledge here is woefully lacking).
+*** How to configure pacman to ignore the nvidia-* packages and still get it to build a DKMS to rebuild the modules when updating the OS.
+*** How a pacman hook can be configured to build the DKMS module.
+
+** Description for Youtube:
+
+I won't be carrying any of this out on the stream, but instead describing how
+the pieces fit together.
+
+Garuda Linux runs the Zen Kernel, which has allow me to see unbelievable
+performance gains on my 2013 fully loaded Macbook Pro as well as my 2011
+machine. It is seriously the difference between being able to open like 7 tabs
+in a browser to opening 100 tabs ... before seeing impacts on performance.
+Seriously, the differences were mind-blowing to me.
+
+When I first ran Garuda, it was the first time I had seen OBS run the NVEnc
+encoders. me, NVEnc is the difference between being able to stream with ZERO
+dropped frames and 5% dropped frames... I made the mistake of trying to build
+`obs-studio-wayland` ... since then, I have spent ONE HUNDRED PLUS HOURS trying
+to get that NVEnc shit to work again. I even went to the lengths of beginning to
+cargo cult my own AUR Nvidia package. Though I have little to show for it ...
+but I've learned so much along the way (and knowing is half the battle)
+
+If the stream quality is lacking, just keep watching it son, cuz I got 99
+solutions but a fresh Mac ain't one.
+
+My last programming stream was a bit of a bummer for me. Since I was still
+learning Julia, it was just embarrassingly bad, which is a shame because I have
+a great learning process for new languages, frameworks and pretty much
+everything.
