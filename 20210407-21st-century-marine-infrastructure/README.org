@@ -1,0 +1,82 @@
+* 21st Century Marine Infrastructure
+
+A plan to align economic interests with climate policy
+
+* Marine Infrastructure
+
+** IDEA use existing abandoned oil platforms as a basis for the development of a web of economic productivity similar in nature to _seasteading_.
+
+this web of connected infrastructure would include:
+*** artificial fisheries
+*** solar-powered "island-towns"
+*** MOF (metal-organic framework)-based carbon-cleansing tech
+
+** IDEA use Biden's "climate corps" to begin planning & building out the "prototype nodes" in this infrastructure web
+
+** IDEA use solar/tidal-powered MOF tech and kelp/oyster-farms (non-edible) to cleanse carbon from the ocean, gradually reducing the CO2 by catalyzing reactions that turn it into Oxygen.
+
+*** this increases the pH of the ocean, which makes larger regions of the ocean more favorable to oxygen
+
+** IDEA artificial fisheries, alongside
+
+** IDEA this can help restore delicate/endangered marine ecosystems, like the Great Barrier Reef
+
+** IDEA use non-edible kelp/oyster-farms to feed biofuel factories
+
+*** these factories then created relatively purified hydrocarbons which need to be refined (creating a demand for climate-policy-motivated refinery tech) from which pollutants can be purified.
+
+*** from this toxic sludge of pollutants extracted from biofuels, one can purify materials: this can reclaim heavy metals, rare elements/salts and other base chemicals from the environment ... albeit in an admittedly expensive way.
+
+* Economics
+
+** IDEA the goal here is to align corporate, venture-capitalist and "conservative" economic concerns
+
+** thereby the incentivization of various groups who seem to be diametrically opposed in Western/Global politics
+*** and these new aligned incentives are perhaps shared to lesser extent with China & Russia. certainly Chinese long-term global economic/political strategy does not seem to account for these possibilities (as their current plays/goals were likely set in motion in the 60s & 70s to be set in stone by the early 2000s)
+
+** so now it makes sense for the driving industrial forces behind the following to align:
+*** new marine infrastructure/transport/habitation,
+*** new MOF carbon-cleansing actors,
+*** new responsible marine agriculture ventures,
+*** older oil extraction/refinery players
+*** older chemical-industrial players
+*** policy stakeholders in developing Pacific islander and Carribean nations
+*** Republicans/Democrats; liberals/conservatives
+
+** But a TON of things have to be in place to create the beginnings of this infrastructure, including:
+*** establishment of norms regarding the Law of the Sea
+*** norms regarding responsibly "compartmentalized" artificial fisheries and kelp/oyster farms
+*** norms regarding responsible GMO practices (as well as other techs)
+*** plans for initial development in the Gulf of Mexico or regions south of Baja by American nations
+*** seperation of concerns into industrial, political, scientific & regulatory players
+*** how to gradually roll this out to the world, while preventing systemic collapse (i.e. oil spills == very bad, which is actually what aligns Big Oil with these new climate-economic players ... iff Big Oil/Chem are not completely left out)
+
+** eventually, this web of infrastructure will be an essential complement to the asteroid mining and resource distribution activities of SpaceX et al.
+*** i.e. they will need to send resources back to earth to be economically distributed, but the kinds of chokepoints in international trade like the Straight of Malacca may actually be adverse to the economic benefits SpaceX or Blue Ocean would net from the trade/distribution of resources reclaimed from asteroids
+*** in other words, their mined resources need to be dropped back to earth, but scheduling to pick up shipments in the ocean can be more difficult (or fragile w.r.t. foreign adversaries or pirates) if those shipments are sent to a small number of locations... (maybe?)
+*** paradoxically, creating logistical chokepoints in the pickup/distribution of materials from space may:
+**** impair the ability to control trade & prevent product loss
+**** exacerbate bottlenecks: time-to-pickup, time-to-delivery (to next supply chain tier)
+**** complicate cooperation (when many small-to-medium size players benefit from a large player's operations, then their incentives are aligned, power/money is well distributed)
+*** it is clear that there will be a handful of regions near island nations where travel to space is cheap and where marine-access to launch-sites is easy-to-protect and hard-to-disrupt
+**** these are outbound nodes in a graph that describes how earth & near-earth economic entities/locales exchange resources. they push resources out
+**** however, the inbound nodes need not be as limited in number or location. the inbound and outbound nodes will need to have intermediate nodes that help facilitate the exchange of resources
+**** it is more stable for there to be relatively many inbound nodes (to shorten transit times & hops required to ship products)
+**** the system intrinsically favors locations where these outbound space-commerce nodes are viable. to counteract this implicit bias, the inbound nodes should be *relatively* more numerous
+***** ideas like this emerge in ANY SYSTEM which minimizes some notion of inter-node distance on a surface, which is why voronoi motifs show up in human anatomy (cardiovascular system), systems of roots/branches/veins in trees (where the shapes of those systems minimize cost of nutrient transport while  maximizing nutrient utility, etc)
+
+* Geopolitics
+
+** There are many island nations in the Caribbean and Oceania whose interests are already aligned with climate policyL
+*** the more that weather is destabalized and the higher the sea-level rises, the more these nations' domestic agriculture and other interests are threatened
+*** these nations can expand said domestic agriculture by partnering with American government/industry (who may partially subsidize the infrastructure construction in those locations)
+*** the stability and productive capacity of this growing web of infrastructure:
+**** creates shared interests in maintaining it
+**** lowers food prices in these nations,
+**** drives employment
+**** drives FDI & other investment by catalyzing speculation with new yet-to-be-proven ideas for ventures & economic development
+*** generally aids macroenomic factors -- e.g.
+**** population retention
+**** real estate supply expansion & price increases
+**** transportation infrastructure
+*** this all shifts how money across the world is invested (on a small scale at first)
